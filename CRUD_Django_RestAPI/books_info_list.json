@@ -1,0 +1,62 @@
+[
+    {
+        "title": "The Shadow of the Wind",
+        "author": "Carlos Ruiz Zafón",
+        "isbn": "9780143034902",
+        "publish_date": "12 September 2004"
+    },
+    {
+        "title": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "isbn": "9780307744432",
+        "publish_date": "23 September 2011"
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "isbn": "9780062316097",
+        "publish_date": "22 February 2015"
+    },
+    {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "isbn": "9780756404741",
+        "publish_date": "11 March 2007"
+    },
+    {
+        "title": "Educated: A Memoir",
+        "author": "Tara Westover",
+        "isbn": "9780399590504",
+        "publish_date": "25 February 2018"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn": "9780062315007",
+        "publish_date": "14 April 2014"
+    },
+    {
+        "title": "The Goldfinch",
+        "author": "Donna Tartt",
+        "isbn": "9780316055437",
+        "publish_date": "5 October 2013"
+    },
+    {
+        "title": "Born a Crime: Stories from a South African Childhood",
+        "author": "Trevor Noah",
+        "isbn": "9780399588198",
+        "publish_date": "11 November 2016"
+    },
+    {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "isbn": "9780553418026",
+        "publish_date": "10 October 2014"
+    },
+    {
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "isbn": "9781594634024",
+        "publish_date": "30 January 2015"
+    }
+]

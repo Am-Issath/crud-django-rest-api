@@ -1,0 +1,42 @@
+1. Activate Virtual enviroment
+    -$ pip install pipenv 
+    -$ pipenv shell
+    -$ pipenv --venv 
+
+2. Install Django
+    -$ pip install django
+
+3. Install Django project and django app
+    -$ django-admin startproject crud_django_restapi
+    -$ python manage.py startapp book
+    - and install the app in settings.py 
+
+4. Install mysqlclient
+    -$ pip install mysqlclient
+    - and change database configurations in settings.py
+
+5. Install Django REST framework
+    $ pip install djangorestframework
+
+6. Now give this to settings.py => under the installed app => 'rest_framework'
+
+7. Make model(book) in model.py 
+
+8. Make serializers.py module and set the serializer
+
+9. Go to view.py and set the view with serializer
+
+10. Make a urls.py inside the book app and make urls.
+
+11. Go to Project => urls.py and set the view's path
+
+12. Make database in the mysql( Using XAMPP to use phpMyAdmin)
+
+13. Make migrations 
+    -$ python manage.py makemigrations 
+    -$ python manage.py migrate 
+
+14. Run the server 
+    -$ python manage.py runserver
+
+15. Check APIs with REST Framework 
